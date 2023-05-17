@@ -1,5 +1,6 @@
-### Hi there 👋
-
+<div align="center">
+<h3>bitgedev</h3>
+<h4>Junior Developer</h4>
 <!--
 **bitgedev/bitgedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
