@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/memoji.gif" alt="memoji" width="150">
   <h3>Hey there, I'm Bitgoeun! 👋</h3>
   <p><strong>Driven Software Engineer | Frontend-focused</strong></p>
 </div>
